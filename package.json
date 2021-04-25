@@ -1,0 +1,17 @@
+{
+  "name": "fastify_learn",
+  "version": "1.0.0",
+  "description": "Fastify learn",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "nadeera",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.15.0",
+    "fastify-formbody": "^5.0.0",
+    "fastify-swagger": "^4.7.0",
+    "mongoose": "^5.12.5"
+  }
+}
